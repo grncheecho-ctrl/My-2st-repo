@@ -1,4 +1,4 @@
-# hello.py 
+# hello.py
 name = "Hawkar"
 temps = [70, 75, 80]
 avg = sum(temps) / len(temps)
